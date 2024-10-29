@@ -11,6 +11,6 @@ Jonathan-Taylor319/Jonathan-Taylor319 is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-	![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+	![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
