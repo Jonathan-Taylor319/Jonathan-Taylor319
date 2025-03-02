@@ -8,6 +8,8 @@ Jonathan-Taylor319/Jonathan-Taylor319 is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
+![CP_Logo](https://github.com/user-attachments/assets/6f357b2b-4363-4434-bb8f-3c6362764a31)
+
 	
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
