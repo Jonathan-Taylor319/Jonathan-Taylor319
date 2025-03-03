@@ -8,7 +8,6 @@ Jonathan-Taylor319/Jonathan-Taylor319 is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src='https://github.com/user-attachments/assets/6f357b2b-4363-4434-bb8f-3c6362764a31' width='200px' height='200px'>
 
 	
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
@@ -18,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<img src='https://github.com/user-attachments/assets/6f357b2b-4363-4434-bb8f-3c6362764a31' width='200px' height='200px'>
