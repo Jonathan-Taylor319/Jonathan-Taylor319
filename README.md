@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<img src='https://github.com/user-attachments/assets/6f357b2b-4363-4434-bb8f-3c6362764a31' width='200px' height='200px'> <img src='https://i.redd.it/u6z9fk41vsm81.jpg' width='200px' height='200px'>
+<img src='https://github.com/user-attachments/assets/6f357b2b-4363-4434-bb8f-3c6362764a31' width='200px' height='200px'> <img src='https://i.redd.it/u6z9fk41vsm81.jpg' width='400px' height='200px'>
