@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
-<img src='https://codinginfinite.com/wp-content/uploads/2019/05/maxresdefault-1.jpg' width='250px' height='200px'><img src='https://github.com/user-attachments/assets/6f357b2b-4363-4434-bb8f-3c6362764a31' width='200px' height='200px'> <img src='https://i.pinimg.com/736x/fc/86/a0/fc86a08dc0316f4f306d91350d3a2d45.jpg' width='400px' height='200px'>
+<img src='https://codinginfinite.com/wp-content/uploads/2019/05/maxresdefault-1.jpg' width='250px' height='200px'><img src='https://github.com/user-attachments/assets/6f357b2b-4363-4434-bb8f-3c6362764a31' width='200px' height='200px'> <img src='https://i.pinimg.com/736x/fc/86/a0/fc86a08dc0316f4f306d91350d3a2d45.jpg' width='500px' height='200px'>
