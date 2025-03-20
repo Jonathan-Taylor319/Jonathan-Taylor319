@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning ... full stack dev course in CodePlatoon
 
+- Currently working on group poject [Happy Hiker](https://github.com/Happy-Hiker-Co/HappyHiker).
+
 
 <!---
 Jonathan-Taylor319/Jonathan-Taylor319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
