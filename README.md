@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonathan-Taylor319
 
-- 🌱 I’m currently learning ... full stack dev course in CodePlatoon
+- 🌱 I’m currently learning ... full stack dev course in CodePlatoon.....finished but still learning.....will always be learning
 
 - Currently working on a game with pygame and building a small react front end web page for friends business
 
