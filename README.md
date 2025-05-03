@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ... full stack dev course in CodePlatoon
 
-- Currently working on group poject [Happy Hiker](https://github.com/Happy-Hiker-Co/HappyHiker).
+- Currently working on a game with pygame and building a small react front end web page for friends business
 
 
 <!---
