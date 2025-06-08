@@ -2,9 +2,6 @@
 
 - 🌱 I’m currently learning ... full stack dev course in CodePlatoon.....finished but still learning.....will always be learning
 
-- Currently working on a game with pygame and building a small react front end web page for friends business
-
-
 <!---
 Jonathan-Taylor319/Jonathan-Taylor319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
